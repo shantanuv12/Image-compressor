@@ -1,2 +1,2 @@
 # Image-compressor
-Simple algorithm for compressig greyscale images
+Simple algorithm for compressing greyscale images.
